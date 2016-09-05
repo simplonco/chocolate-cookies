@@ -1,5 +1,7 @@
 # Chocolate cookies
 
+![Yuuuum..](https://upload.wikimedia.org/wikipedia/commons/3/3c/Chocolate_Cookies_with_Chocolate_Peanut_Butter_Chips.jpg)
+
 ## Level 1
 
 Create a web page which **ask user name** and save it into a `cookie`, next retreive it and display it with a **welcome message**!
